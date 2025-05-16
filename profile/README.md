@@ -19,6 +19,7 @@
                 <ul>
                     <li>Q - For Research Based PCB Design and Hardware Development</li>
                     <li>Arcanum - A 3D World Builder for Unity3D Game Development</li>
+                    <li> Juno - An Experiment in Self-Aware AI with Auto Improvement</li>
                 </ul>
             </section>
         </main>
